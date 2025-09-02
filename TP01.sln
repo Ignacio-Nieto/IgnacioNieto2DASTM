@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36221.1 d17.14
+VisualStudioVersion = 17.14.36221.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio01", "Ejercicio01\Ejercicio01.csproj", "{D06D8859-FE49-4A4F-9851-7F01FC16A666}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio02", "Ejercicio02\Ejercicio02.csproj", "{EAFA687C-821C-40F0-900D-563630FC6A29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudWindowsForms AdoNet", "CrudWindowsForms AdoNet\CrudWindowsForms AdoNet.csproj", "{884F965C-BF4E-42CE-95EE-A5DE4D63845C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{EAFA687C-821C-40F0-900D-563630FC6A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAFA687C-821C-40F0-900D-563630FC6A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAFA687C-821C-40F0-900D-563630FC6A29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{884F965C-BF4E-42CE-95EE-A5DE4D63845C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{884F965C-BF4E-42CE-95EE-A5DE4D63845C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{884F965C-BF4E-42CE-95EE-A5DE4D63845C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{884F965C-BF4E-42CE-95EE-A5DE4D63845C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
